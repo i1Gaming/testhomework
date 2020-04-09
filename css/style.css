@@ -6,11 +6,11 @@
     height: 100%;
     background-color: #f1f8ff;
     padding-top: 5rem;
-    margin-bottom: 20rem;
+    
 }
 
 .expert-in__title{
-    font-family: "MyriadPro" sans-serif;
+    font-family: "Lato", sans-serif;
     font-size: 50px;
     font-weight: 300;
     color: #3695ff;
@@ -25,7 +25,7 @@ flex-direction: column;
 }
 
 .expert-in__wrapper_title{
-    font-family: "Lato" sans-serif;
+    font-family: "Lato", sans-serif;
     font-size: 24px;
     font-weight: 700;
     text-transform: uppercase;
@@ -35,14 +35,14 @@ flex-direction: column;
 }
 
 .expert-in__wrapper_subtitle{
-    font-family: "Lato" sans-serif;
+    font-family: "Lato", sans-serif;
     font-size: 16px;
     font-weight: 400;
     color: #5a5a5a;
     text-align: center;
 }
 
-.expert-in__wrapper_border{
+.expert-in__wrapper_border {
     width: 150px;
     height: 150px;
     display: flex;
@@ -51,7 +51,7 @@ flex-direction: column;
     padding: 10px;
     border-radius: 50%;
     margin-top: 1rem;
-    border: 1px solid #bbc4cd;
+    border: 1px solid #bbc4cd; }
 
 .about, .clients {
     padding-top: 100px;
@@ -118,7 +118,7 @@ flex-direction: column;
     text-transform: uppercase;
 }
 .header {
-    min-width: 100vw;
+    
 }
 .header__top {
     height: 10vh;
